@@ -43,7 +43,7 @@ FileName:    Get-IntuneDeviceNotes.ps1\
 Author:      Andreas Wikström\
 Contact:     @andreaswkstrom\
 Created:     2022-01-07\
-Updated:\
+Updated:
 
 Version history:\
 1.0 - 2022-01-07    Intial script
