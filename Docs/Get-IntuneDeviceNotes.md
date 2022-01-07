@@ -39,11 +39,11 @@ VM-1874-39 now has note: Laddstation: 99
 ```
 
 ## Notes
-FileName:    Get-IntuneDeviceNotes.ps1
-Author:      Andreas Wikström
-Contact:     @andreaswkstrom
-Created:     2022-01-07
-Updated:
+FileName:    Get-IntuneDeviceNotes.ps1\
+Author:      Andreas Wikström\
+Contact:     @andreaswkstrom\
+Created:     2022-01-07\
+Updated:\
 
-Version history:
+Version history:\
 1.0 - 2022-01-07    Intial script
